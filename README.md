@@ -1,6 +1,6 @@
 # sso-wall-of-shame
 
-Implementing SSO is easy now.  It's a shrewd business practice to charge for security authentication mechanisms.  This is a list of companies that are insisting that charging for a buzz word.
+Implementing SSO is easy now.  It's a shrewd business practice to charge for security authentication mechanisms.  This is a list of companies that are insisting on charging for a buzz word.
 
 | Service|Implementation|Cost|
 | --- |-------------| -----|
