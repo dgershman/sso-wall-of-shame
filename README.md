@@ -7,7 +7,6 @@ Implementing SSO is easy now.  It's a shrewd business practice to charge for sec
 | Service|Implementation|Cost|
 | --- |-------------| -----|
 | Airtable | SAML 2.0 | Requires Enterprise Plan, no pricing listed.
-| Browserstack | SAML | Requires Enterprise Plan, no pricing listed.
 | Dialpad | SAML 2.0 | Requires Enterprise Plan, no pricing listed.
 | Github | SAML 2.0 | Requires their Business plan, an additional $12/user per month.
 | Pendo | SAML 2.0 | $5000/year.
